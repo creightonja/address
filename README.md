@@ -11,7 +11,8 @@ This app take an address as input from the user and add it to the address book.
 ## Setup
 
 - clone this repository
-- navigate web browser to address-book.html
+- navigate to spec-runner.html to view tests and app capabilities
+- navigate web browser to address-book.html to use app
 
 
 ## Technologies Used
